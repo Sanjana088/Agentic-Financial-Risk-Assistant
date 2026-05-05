@@ -20,7 +20,7 @@ This project demonstrates how modern AI systems can move beyond simple Q&A and a
 
 ##   Architecture
 
-![Architecture](Architecture Diagram.png)
+
 
 > The system dynamically decomposes user queries, selects relevant tools, retrieves financial data, and generates structured insights.
 
